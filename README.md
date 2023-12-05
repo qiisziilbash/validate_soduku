@@ -1,2 +1,8 @@
 # validate_soduku
-Validate a soduko board
+Validate a Soduko board
+
+
+## Run the test
+```bash
+pytest test.py
+```
